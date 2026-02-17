@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel Cyber Intelligence Dashboard",
+  "description": "A high-fidelity cybersecurity monitoring platform featuring real-time attack visualizations, regional incident tracking, and AI-powered OSINT threat analysis using Gemini search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
